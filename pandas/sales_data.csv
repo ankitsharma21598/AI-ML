@@ -1,0 +1,21 @@
+Order ID,Customer Name,Product,Category,Quantity,Price (INR),Order Date
+ORD0001,Amit Sharma,Laptop,Electronics,2,80000,2025-01-01
+ORD0002,Priya Verma,Smartphone,Electronics,1,60000,2025-01-16
+ORD0003,Rahul Mehta,Tablet,Electronics,3,25000,2025-01-31
+ORD0004,Sneha Gupta,Monitor,Accessories,1,15000,2025-02-15
+ORD0005,Vikram Singh,Headphones,Accessories,4,3000,2025-03-02
+ORD0006,Neha Patel,Keyboard,Accessories,2,1200,2025-03-17
+ORD0007,Ankit Joshi,Mouse,Accessories,5,800,2025-04-01
+ORD0008,Riya Kapoor,Printer,Office,1,9000,2025-04-16
+ORD0009,Karan Malhotra,Camera,Electronics,1,35000,2025-05-01
+ORD0010,Divya Nair,Smartwatch,Wearable,2,12000,2025-05-16
+ORD0011,Manish Yadav,Router,Networking,1,2000,2025-05-31
+ORD0012,Tanya Roy,Speaker,Audio,3,5000,2025-06-15
+ORD0013,Rohit Das,SSD,Storage,2,6000,2025-06-30
+ORD0014,Simran Kaur,HDD,Storage,1,4000,2025-07-15
+ORD0015,Deepak Bansal,Microphone,Audio,1,3500,2025-07-30
+ORD0016,Aisha Khan,Webcam,Video,2,4500,2025-08-14
+ORD0017,Saurabh Mishra,Power Bank,Power,4,2000,2025-08-29
+ORD0018,Meena Iyer,USB Drive,Storage,3,1000,2025-09-13
+ORD0019,Rajeev Reddy,Projector,Office,1,55000,2025-09-28
+ORD0020,Nikita Jain,Drone,Drone,1,80000,2025-10-13
